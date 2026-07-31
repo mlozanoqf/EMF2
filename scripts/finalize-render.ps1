@@ -2,11 +2,28 @@ $ErrorActionPreference = "Stop"
 
 $projectRoot = Split-Path -Parent $PSScriptRoot
 $outputDirectory = Join-Path $projectRoot "docs"
+$quartoConfigPath = Join-Path $projectRoot "_quarto.yml"
 $utf8NoBom = New-Object System.Text.UTF8Encoding($false)
 
 if (-not (Test-Path $outputDirectory)) {
   throw "The rendered docs directory was not found."
 }
+
+if (-not (Test-Path $quartoConfigPath)) {
+  throw "The Quarto configuration file was not found."
+}
+
+$quartoConfig = [System.IO.File]::ReadAllText($quartoConfigPath, $utf8NoBom)
+$courseCodeMatch = [regex]::Match(
+  $quartoConfig,
+  '(?m)^\s{2}code:\s*(.+?)\s*$'
+)
+
+if (-not $courseCodeMatch.Success) {
+  throw "The course code could not be read from _quarto.yml."
+}
+
+$courseCode = $courseCodeMatch.Groups[1].Value.Trim().Trim('"').Trim("'")
 
 [System.IO.File]::WriteAllText(
   (Join-Path $outputDirectory ".nojekyll"),
@@ -28,6 +45,7 @@ $previousHomePattern = @'
 
 $regexOptions = [System.Text.RegularExpressions.RegexOptions]::Singleline
 $previousHomeReplacement = "<div class=`"nav-page nav-page-previous`">`n  </div>"
+$titlePattern = '<title>(.*?)</title>'
 
 Get-ChildItem -Path $outputDirectory -Filter "*.html" -File | ForEach-Object {
   $html = [System.IO.File]::ReadAllText($_.FullName, $utf8NoBom)
@@ -37,6 +55,34 @@ Get-ChildItem -Path $outputDirectory -Filter "*.html" -File | ForEach-Object {
     $cleanedHtml,
     $previousHomePattern,
     $previousHomeReplacement,
+    $regexOptions
+  )
+
+  $titleMatch = [regex]::Match($cleanedHtml, $titlePattern, $regexOptions)
+  if (-not $titleMatch.Success) {
+    throw "The browser title could not be found in $($_.Name)."
+  }
+
+  if ($_.Name -eq "index.html") {
+    $browserTitle = "$courseCode syllabus"
+  } else {
+    $pageTitle = [regex]::Replace(
+      $titleMatch.Groups[1].Value,
+      '\s+[\u2013\u2014-]\s+.*$',
+      ""
+    ).Trim()
+
+    if ([string]::IsNullOrWhiteSpace($pageTitle)) {
+      throw "The page title could not be determined for $($_.Name)."
+    }
+
+    $browserTitle = "$pageTitle $([char]0x2013) $courseCode"
+  }
+
+  $cleanedHtml = [regex]::Replace(
+    $cleanedHtml,
+    $titlePattern,
+    "<title>$browserTitle</title>",
     $regexOptions
   )
 
