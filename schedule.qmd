@@ -6,7 +6,7 @@
 
 ## <span class="bi bi-battery content-icon icon-muted" aria-hidden="true"></span> Part 1
 
-**Session 1. <span class="bi bi-people content-icon" aria-hidden="true"></span> Monday, August 3.**
+**Session 1. <span class="bi bi-people content-icon" aria-hidden="true"></span> Thursday, August 6.**
 
 - Activity. Read the course syllabus (this document).
 - Activity. Welcome and introduction to the course.
@@ -14,181 +14,109 @@
 - Activity. Define your team. Teams may have up to four members, or another maximum that I announce based on class enrollment.
 - Bonus points. Group challenge. You must subscribe to the [Ah, ya entendí YouTube channel](https://www.youtube.com/@ahyaentendi) by the end of this class session. We will verify the result in class. If every student in this class has subscribed by that time, I will award +5 bonus points to each student's individual $E_1$ mark.
 - Optional. If you already have a Substack account, you may subscribe to [Ah, ya entendí on Substack](https://ahyaentendi.substack.com/). This is not required. If you do not already have a Substack account, do not create one for this activity.
-
-**Session 2. Thursday, August 6.**
-
-- Activity. Read the course syllabus (this document).
 - Activity. How DataCamp, DataLab, and RStudio work.
 
-**Session 3. Monday, August 10.**
+**Session 2. Thursday, August 13.**
 
 - Topic 1/3: Financial time-series forecasting.
-- Required reading. @49018680cf534023b6ae0f4e933c475d, chapters 1: *Getting started* and 2: *Time series graphics*.
-- Required reading. @lozanoEMF, chapter 1: *Forecasting with fpp3* (1/4).
+- Required reading. @49018680cf534023b6ae0f4e933c475d, chapters 1: *Getting started*; 2: *Time series graphics*; and 3: *Time series decomposition*.
+- Required reading. @lozanoEMF, chapter 1: *Forecasting with fpp3* (1/2).
 - Supplementary reading. @ruppert2015statistics, chapter 2, sections 2.1: *Introduction* and 2.2: *The Random Walk Model*.
-- Required. Accept the course policies by completing this [form](https://forms.gle/mHGKXoXmbb1m9HYB9) using your UDEM email account. If you do not complete the form by the end of Friday, August 14, 5 points will be deducted from your individual $E_1$ mark.
-
-**Session 4. Thursday, August 13.**
-
-- Required reading. @49018680cf534023b6ae0f4e933c475d, chapter 3: *Time series decomposition*.
-- Required reading. @lozanoEMF, chapter 1: *Forecasting with fpp3* (2/4).
 - Supplementary reading. @ruppert2015statistics, chapter 12, sections 12.1–12.5: time-series data, stationary processes, parameter estimation, and AR(1) processes.
+- Required. Accept the course policies by completing this [form](https://forms.gle/mHGKXoXmbb1m9HYB9) using your UDEM email account. If you do not complete the form by the end of Friday, August 14, 5 points will be deducted from your individual $E_1$ mark.
 - Supplementary video. [Rendimientos accionarios en R](https://www.youtube.com/watch?v=WVSP6z9EG44).
 
-**Session 5. Monday, August 17.**
+**Session 3. Thursday, August 20.**
 
-- Required reading. @49018680cf534023b6ae0f4e933c475d, chapters 4: *Time series features* and 5: *The forecaster's toolbox*.
-- Required reading. @lozanoEMF, chapter 1: *Forecasting with fpp3* (3/4).
-- Supplementary reading. @ruppert2015statistics, chapter 12, sections 12.6–12.9: AR, MA, ARMA, and ARIMA processes.
+- Required reading. @49018680cf534023b6ae0f4e933c475d, chapters 4: *Time series features*; 5: *The forecaster's toolbox*; and 7: *Time series regression models*.
+- Required reading. @lozanoEMF, chapter 1: *Forecasting with fpp3* (2/2).
+- Supplementary reading. @ruppert2015statistics, chapter 12, sections 12.6–12.13: AR, MA, ARMA, and ARIMA processes; unit-root tests; ARIMA model selection; forecasting; and partial autocorrelations.
 - Supplementary essay. Lozano (2026), [*Un promedio no es una promesa*](https://ahyaentendi.substack.com/p/un-promedio-no-es-una-promesa).
-
-**Session 6. Thursday, August 20.**
-
-- Required reading. @49018680cf534023b6ae0f4e933c475d, chapter 7: *Time series regression models*.
-- Required reading. @lozanoEMF, chapter 1: *Forecasting with fpp3* (4/4).
-- Supplementary reading. @ruppert2015statistics, chapter 12, sections 12.10–12.13: unit-root tests, ARIMA model selection, forecasting, and partial autocorrelations.
 - Supplementary video. [Cómo aparece la normalidad al promediar datos](https://www.youtube.com/watch?v=bzwL9kSenIA).
 
-**Session 7, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, August 24.**
+**Session 4. Thursday, August 27.**
 
-- Required reading. @49018680cf534023b6ae0f4e933c475d, chapter 8: *Exponential smoothing*.
-- Required reading. @lozanoEMF, chapter 2: *Time series forecasting with machine learning* (1/3).
-- Supplementary reading. @ruppert2015statistics, chapter 13, section 13.1: *Seasonal ARIMA Models*.
-
-**Session 8. Thursday, August 27.**
-
-- Required reading. @49018680cf534023b6ae0f4e933c475d, chapter 9: *ARIMA models*.
-- Required reading. @lozanoEMF, chapter 2: *Time series forecasting with machine learning* (2/3).
-- Supplementary reading. @ruppert2015statistics, chapter 13, section 13.2: *Box–Cox Transformation for Time Series*.
+- Required reading. @49018680cf534023b6ae0f4e933c475d, chapters 8: *Exponential smoothing* and 9: *ARIMA models*.
+- Required reading. @lozanoEMF, chapter 2: *Time series forecasting with machine learning*.
+- Supplementary reading. @ruppert2015statistics, chapter 13, sections 13.1: *Seasonal ARIMA Models*; 13.2: *Box–Cox Transformation for Time Series*; and 13.3: *Time Series and Regression*.
 - Supplementary video. [Histograma 3D de una normal bivariada](https://www.youtube.com/watch?v=OaiAWRCH84Y).
-
-**Session 9. Monday, August 31.**
-
-- Required reading. @lozanoEMF, chapter 2: *Time series forecasting with machine learning* (3/3).
-- Supplementary reading. @ruppert2015statistics, chapter 13, section 13.3: *Time Series and Regression*.
 - Supplementary short. [Correlación y causalidad](https://www.youtube.com/shorts/b7Ac0lDDzCU).
 
-**Session 10. Thursday, September 3.**
+**Session 5. Thursday, September 3.**
 
 - Graded. The Written component of $H_1$ is due before class begins.
-- Graded. Team Oral presentations for $H_1$, with each student assessed individually: first of two presentation sessions.
+- Graded. Team Oral presentations for $H_1$, with each student assessed individually.
 - *The deadline is not yet available, but please remember to complete the Avanza 180 survey.*
 
-**Session 11. Monday, September 7.**
-
-- Graded. Team Oral presentations for $H_1$, with each student assessed individually: second of two presentation sessions.
-
-**Session 12, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Thursday, September 10.**
+**Session 6, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Thursday, September 10.**
 
 - Graded. Complete the Written component of $E_1$ remotely during the scheduled class period.
 
-**Session 13. Monday, September 14.**
+**Session 7. <span class="bi bi-flag-fill content-icon" aria-hidden="true"></span> Thursday, September 17.**
 
-- Graded. Team Oral defenses for $E_1$: first of two defense sessions.
-
-**Session 14. <span class="bi bi-flag-fill content-icon" aria-hidden="true"></span> Thursday, September 17.**
-
-- Graded. Team Oral defenses for $E_1$: second of two defense sessions.
+- Graded. Team Oral defenses for $E_1$.
 - Graded. The link to complete the coevaluation for $E_1$ will be available on Blackboard. Deadline: Friday, September 18, 10:00 a.m.
 - Bonus points. The wheel of fortune 1/3. This is a class activity.
 
 ## <span class="bi bi-battery-half content-icon icon-red" aria-hidden="true"></span> Part 2
 
-**Session 15. <span class="bi bi-peace-fill content-icon" aria-hidden="true"></span> Monday, September 21.**
+**Session 8. <span class="bi bi-peace-fill content-icon" aria-hidden="true"></span> Thursday, September 24.**
 
 - Topic 2/3: Volatility and asset pricing econometrics.
-- Required reading. @lozanoEMF, chapter 3: *GARCH volatility forecasting* (1/2).
-- Required reading. @Hull11, chapter 23, sections 23.1: *Estimating volatility*; 23.2: *The exponentially weighted moving average model*; 23.3: *The GARCH(1,1) model*; and 23.4: *Choosing between the models*.
-- Supplementary reading. @ruppert2015statistics, chapter 14, sections 14.1–14.10: ARCH, GARCH, estimation, fitting, and the GARCH(1,1) model.
+- Required reading. @lozanoEMF, chapter 3: *GARCH volatility forecasting*.
+- Required reading. @Hull11, chapter 23, sections 23.1: *Estimating volatility*; 23.2: *The exponentially weighted moving average model*; 23.3: *The GARCH(1,1) model*; 23.4: *Choosing between the models*; 23.5: *Maximum likelihood methods*; and 23.6: *Using GARCH(1,1) to forecast future volatility*.
+- Supplementary reading. @ruppert2015statistics, chapter 14, sections 14.1–14.13 and 14.16.1: ARCH, GARCH, estimation, fitting, the GARCH(1,1) model, APARCH, regression with ARMA–GARCH errors, forecasting, and fitting GARCH models in R.
 - Supplementary video. [Estimación muestral de la volatilidad no condicional](https://www.youtube.com/watch?v=0F3wUB2ATTA).
-
-**Session 16. Thursday, September 24.**
-
-- Required reading. @lozanoEMF, chapter 3: *GARCH volatility forecasting* (2/2).
-- Required reading. @Hull11, chapter 23, sections 23.5: *Maximum likelihood methods*; and 23.6: *Using GARCH(1,1) to forecast future volatility*.
-- Supplementary reading. @ruppert2015statistics, chapter 14, sections 14.11–14.13 and 14.16.1: APARCH, regression with ARMA–GARCH errors, forecasting, and fitting GARCH models in R.
 - Supplementary video. [Estimación del modelo GARCH(1,1)](https://www.youtube.com/watch?v=ZYkIVLPG0QU).
 
-**Session 17, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, September 28.**
+**Session 9. <span class="bi bi-cup-hot-fill content-icon" aria-hidden="true"></span> Thursday, October 1.**
 
-- Required reading. @lozanoEMF, chapter 4: *Asset pricing econometrics* (1/3).
-- Supplementary reading. @ruppert2015statistics, chapter 17, sections 17.1 and 17.3–17.4: the CAPM, betas, the Security Market Line, and the Security Characteristic Line.
-- Supplementary video. [Cópulas para modelar dependencia en finanzas](https://www.youtube.com/watch?v=PnAEJ3_lxk0).
-
-**Session 18. <span class="bi bi-cup-hot-fill content-icon" aria-hidden="true"></span> Thursday, October 1.**
-
-- Required reading. @lozanoEMF, chapter 4: *Asset pricing econometrics* (2/3).
-- Supplementary reading. @ruppert2015statistics, chapter 17, section 17.6: *Estimation of Beta and Testing the CAPM*.
-- Supplementary video. [Gaussian copula model: 2 firms](https://www.youtube.com/watch?v=3p-B19R8RwA).
-
-**Session 19. <span class="bi bi-mortarboard-fill content-icon" aria-hidden="true"></span> Monday, October 5.**
-
-- Required reading. @lozanoEMF, chapter 4: *Asset pricing econometrics* (3/3).
+- Required reading. @lozanoEMF, chapter 4: *Asset pricing econometrics*.
+- Supplementary reading. @ruppert2015statistics, chapter 17, sections 17.1, 17.3–17.4, and 17.6: the CAPM, betas, the Security Market Line, the Security Characteristic Line, estimation of beta, and testing the CAPM.
 - Supplementary reading. @ruppert2015statistics, chapter 18, sections 18.3–18.5: factor models, time-series factor regressions, the Fama–French three-factor model, and cross-sectional factor models.
+- Supplementary video. [Cópulas para modelar dependencia en finanzas](https://www.youtube.com/watch?v=PnAEJ3_lxk0).
+- Supplementary video. [Gaussian copula model: 2 firms](https://www.youtube.com/watch?v=3p-B19R8RwA).
 - Supplementary essay. Lozano (2026), [*Dimensiones y los límites de la intuición*](https://ahyaentendi.substack.com/p/dimensiones-y-los-limites-de-la-intuicion).
 
-**Session 20. Thursday, October 8.**
+**Session 10. Thursday, October 8.**
 
 - Graded. The Written component of $H_2$ is due before class begins.
-- Graded. Team Oral presentations for $H_2$: first of two presentation sessions.
+- Graded. Team Oral presentations for $H_2$.
 
-**Session 21. <span class="bi bi-globe-americas content-icon" aria-hidden="true"></span> Monday, October 12.**
-
-- Graded. Team Oral presentations for $H_2$: second of two presentation sessions.
-
-**Session 22, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Thursday, October 15.**
+**Session 11, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Thursday, October 15.**
 
 - Graded. Complete the Written component of $E_2$ remotely during the scheduled class period.
 
-**Session 23. Monday, October 19.**
+**Session 12. Thursday, October 22.**
 
-- Graded. Team Oral defenses for $E_2$: first of two defense sessions.
-
-**Session 24. Thursday, October 22.**
-
-- Graded. Team Oral defenses for $E_2$: second of two defense sessions.
+- Graded. Team Oral defenses for $E_2$.
 - Graded. The link to complete the coevaluation for $H_2$ and $E_2$ will be available on Blackboard. Deadline: Friday, October 23, 10:00 a.m.
 - Bonus points. The wheel of fortune 2/3. This is a class activity.
 
 ## <span class="bi bi-battery-half content-icon icon-orange" aria-hidden="true"></span> Part 3
 
-**Session 25. Monday, October 26.**
+**Session 13. Thursday, October 29.**
 
 - Topic 3/3: Algorithmic trading and blockchain.
-- Required reading. @lozanoPMF, chapter 3: *Robotrader in R* (1/3).
-- Supplementary reading. @ruppert2015statistics, chapter 15, section 15.3: *Trading Strategies*.
+- Required reading. @lozanoPMF, chapter 3: *Robotrader in R*.
+- Supplementary reading. @ruppert2015statistics, chapter 15, sections 15.3: *Trading Strategies* and 15.5.3: *Cointegration Analysis of Daily Stock Prices*.
 - Supplementary video. [Trading con velas japonesas: introducción](https://www.youtube.com/watch?v=gAtX54Dp13M).
-
-**Session 26. Thursday, October 29.**
-
-- Required reading. @lozanoPMF, chapter 3: *Robotrader in R* (2/3).
-- Supplementary reading. @ruppert2015statistics, chapter 15, section 15.5.3: *Cointegration Analysis of Daily Stock Prices*.
 - Supplementary video. [Señales de compra y venta con las Bandas de Bollinger](https://www.youtube.com/watch?v=U0Kyzy_GO50).
-
-**Session 27. <span class="bi bi-flower1 content-icon" aria-hidden="true"></span> Monday, November 2.**
-
-- Required reading. @lozanoPMF, chapter 3: *Robotrader in R* (3/3).
 - Supplementary video. [Robo trader simple](https://www.youtube.com/watch?v=sT8B9L-tQ64).
+
+**Session 14. <span class="bi bi-shield-check content-icon" aria-hidden="true"></span> Thursday, November 5.**
+
 - *The deadline is not yet available, but please remember to complete the Avanza 360 survey.*
-
-**Session 28. <span class="bi bi-shield-check content-icon" aria-hidden="true"></span> Thursday, November 5.**
-
-- Required reading. @lozanoPMF, chapter 7: *Blockchain* (1/3).
+- Required reading. @lozanoPMF, chapter 7: *Blockchain* (1/2).
 - Optional, non-graded. Share your DataCamp experience on social media if you wish. [Instructions.](https://docs.google.com/document/d/1Dv-L036CZWsZCmn9W5p0ikgetlc4GcT-NQ9Rp_HebE0/edit)
 
-**Session 29, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. <span class="bi bi-stars content-icon" aria-hidden="true"></span> Monday, November 9.**
+**Session 15. <span class="bi bi-stars content-icon" aria-hidden="true"></span> Thursday, November 12.**
 
-- Required reading. @lozanoPMF, chapter 7: *Blockchain* (2/3).
+- Required reading. @lozanoPMF, chapter 7: *Blockchain* (2/2).
 - Supplementary essay. Lozano (2026), [*Blockchain y la mejora que no termina de llegar*](https://ahyaentendi.substack.com/p/blockchain-y-la-mejora-que-no-termina).
-
-**Session 30. Thursday, November 12.**
-
-- Required reading. @lozanoPMF, chapter 7: *Blockchain* (3/3).
 - Bonus points. **Data Scientist Certification.** Complete this DataCamp certification before 10:00 a.m. to earn +20 points on your individual $E_F$ mark. DataCamp also offers a **Data Scientist Associate** certification, but that version does not satisfy this activity. It is not necessary to send evidence because DataCamp automatically records whether the required certification was completed on time.
 
-**Holiday. <span class="bi bi-umbrella content-icon" aria-hidden="true"></span> Monday, November 16.**
-
-**Session 31, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. <span class="bi bi-chat-quote-fill content-icon" aria-hidden="true"></span> Thursday, November 19.**
+**Session 16, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. <span class="bi bi-chat-quote-fill content-icon" aria-hidden="true"></span> Thursday, November 19.**
 
 - Activity. $E_F$ review.
 - Bonus points. The wheel of fortune 3/3. This is a class activity.
@@ -199,4 +127,3 @@
 **Final exam, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. XXX.**
 
 - Graded. $E_F$ Instructions in Blackboard.
-
