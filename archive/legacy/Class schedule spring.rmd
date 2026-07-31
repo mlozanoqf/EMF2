@@ -1,0 +1,212 @@
+---
+title: ''
+  html_document:
+    df_print: paged
+---
+
+\newpage
+
+# `r fontawesome::fa("calendar-alt")` Class schedule. 
+
+EMF, Spring 2023. Room 2401, 17:30 – 19:00.
+
+## Part 1. `r fontawesome::fa("battery-quarter")`
+
+**Session 1. `r fontawesome::fa("handshake")` Thursday, 12 January.**
+
+- Reading. Course syllabus (this document).
+- Activity. Welcome and introduction to the course.
+- Activity. Set up your free DataCamp and Deepnote accounts, you should have invitations in your UDEM student email.
+- Activity. Define your group of no more than 4 members, you should have an invitation in your UDEM student email.
+
+**Session 2. Monday, 16 January.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 1 *Getting started*.
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 2 *Time series graphics*.
+- Non graded. Register and attend the following DataCamp webinar. [Exploratory data analysis in R for absolute beginners.](https://www.datacamp.com/webinars/data-analysis-r-beginners)
+
+
+**Session 3. Thursday, 19 January.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 2 *Time series graphics*.
+
+**Session 4. Monday, 23 January.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 3 *Time series decomposition*.
+- Reading. @lozanoEMF, Chapter 1 *The forecast problem*.
+- Reading. @lozanoEMF, Chapter 2 *Forecasts with fpp3*.
+- Complementary material. Video: [Rob Hyndman, How Rmarkdown changed my life, RStudio 2020.](https://youtu.be/_D-ux3MqGug)
+- Extra marks. DataCamp skill track: *Machine learning fundamentals in R*. Before 10:00 a.m.
+
+**Session 5. Thursday, 26 January.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 5 *The forecaster’s toolbox*.
+- Complementary material. Video: [Chapter 5.](https://youtu.be/6mXUz_l3mPQ)
+- We do not review @49018680cf534023b6ae0f4e933c475d, Chapter 4, but here is one interesting video about this chapter in case you are interested. [Talk time series data.](https://youtu.be/Ykiuj16P450) @49018680cf534023b6ae0f4e933c475d video: [Chapter 4.](https://youtu.be/pSdFzYsR0rQ)
+
+
+**Session 6. Monday, 30 January.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 5 *The forecaster’s toolbox*.
+- We do not review @49018680cf534023b6ae0f4e933c475d, Chapter 6, but here is one interesting video about this chapter in case you are interested. [Chapter 6.](https://youtu.be/4cjU4NV1tkk)
+- Extra marks. DataCamp skill track: *Time series with R*. Before 10:00 a.m.
+
+**Session 7, Zoom. Thursday, 2 February.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 7 *Time series regression models*.
+- To know more about *Time series regression and forecasting*, please see @hanck2020introduction, Chapter 14.
+- Super extra marks. Individual class activity. DataCamp assessment: *R programming*.
+- Extra marks. $ME_1$ instructions in Blackboard.
+- Activity. $H_1$ review.
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 6 February.**
+
+**Session 8. Thursday, 9 February.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 7 *Time series regression models*.
+- Graded. Complete $H_1$ before 10:00 a.m.
+- Activity. Review $H_1$ answers.
+- Activity. $E_1$ review.
+
+**Session 9, Zoom. `r fontawesome::fa("heart")` Monday, 13 February.**
+
+- Graded. $E_1$ instructions in Blackboard.
+
+## Part 2. `r fontawesome::fa("battery-half")`
+
+**Session 10, Zoom. Thursday, 16 February.**
+
+- Activity. Review $E_1$ answers.
+- Extra marks. The wheel of fortune 1/3.
+- Graded. Submit $H_1$ and $E_1$ auto and co-evaluation before 10:00 a.m. instructions in Blackboard.
+- Non graded. Mention DataCamp in social media if possible. [Instructions.](https://docs.google.com/document/d/1Dv-L036CZWsZCmn9W5p0ikgetlc4GcT-NQ9Rp_HebE0/edit)
+
+**Session 11. Monday, 20 February.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 8 *Exponential smoothing*.
+- Reading. @lozanoEMF, Chapter 1 *The forecast problem*.
+- Reading. @lozanoEMF, Chapter 2 *Forecasts with fpp3*.
+- Complementary material. @49018680cf534023b6ae0f4e933c475d videos: 8.1 [Simple exponential smoothing.](https://youtu.be/E47o0TrFBIg) 8.2 [Holt's linear trend method.](https://youtu.be/tMaEhMmLgxs) 8.3 [Holt Winters smoothing.](https://youtu.be/Mtu3_eIgSg0) 8.7 [ETS models.](https://youtu.be/QnBGtvKnGqk)
+
+**Session 12. Thursday, 23 February.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 8 *Exponential smoothing*.
+- Extra marks. DataCamp skill track: *Supervised machine learning in R*. Before 10:00 a.m.
+
+**Session 13. Monday, 27 February.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 9 *ARIMA models*.
+- Complementary material. @49018680cf534023b6ae0f4e933c475d videos: 9.1 [ARIMA unit root test.](https://youtu.be/xgIu7H2Qo64) 9.3 [ARIMA Autoregressive models.](https://youtu.be/7fN_b1BihWM) 9.4 [ARIMA ARMA model.](https://youtu.be/rWDhcSau1lg) 9.5 [ARIMA, non seasonal.](https://youtu.be/KbzCi2qD9eg) 9.9 [Seasonal ARIMA.](https://youtu.be/3UImzupolm0)
+
+
+**Session 14. Thursday, 2 March.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 9 *ARIMA models*.
+- Complementary material. Video: [Times-series analysis.](https://youtu.be/OzpZVMfaszY)
+- To know more about ARIMA models see @ruppert2011statistics: Chapters 12 and 13.
+
+
+**Session 15. `r fontawesome::fa("female")` Monday, 6 March.**
+
+- Reading. @lozanoEMF, Chapter 3 *Forecasts with h2o*.
+- Reading. @lozanoEMF, Chapter 4 *Two more forecast models*.
+- Reading. @lozanoEMF, Chapter 5 *Summary of all results*.
+- Extra marks. [Open online course on gender and environment.](https://unccelearn.org/course/view.php?id=39&page=overview) Submit your PDF certificate before 10:00 a.m. by the discussion forum.
+
+**Session 16. Thursday, 9 March.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 10 *Dynamic regression models*.
+- Complementary material. @49018680cf534023b6ae0f4e933c475d video: [Introduction to dynamic regression.](https://youtu.be/F2ByLxVlCtM)
+
+
+**Session 17. $\pi$ Monday, 13 March.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 10 *Dynamic regression models*.
+- Extra marks. DataCamp skill track: *Unsupervised machine learning with R*. Before 10:00 a.m.
+
+**Session 18, Zoom. Thursday, 16 March.**
+
+- Super extra marks. Individual class activity. DataCamp assessment: *Machine learning fundamentals in R*.
+- Extra marks. $ME_2$ instructions in Blackboard.
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 20 March.**
+
+**Session 19. Thursday, 23 March.**
+
+- Reading. Review COIL instructions.
+- Activity. $H_2$ review.
+
+**Session 20. Monday, 27 March.**
+
+- Graded. Complete $H_2$ before 10:00 a.m.
+- Review $H_2$ answers.
+- Activity. $E_2$ review.
+
+**Session 21, Zoom. Thursday, 30 March.**
+
+- Graded. $E_2$ instructions in Blackboard.
+- Graded. Friday 31 March: Submit $H_2$ and $E_2$ auto and co-evaluation before 10:00 a.m. instructions in Blackboard. 
+- View $E_2$ answers.
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 3 April.**
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Thursday, 6 April.**
+
+## Part 3. `r fontawesome::fa("battery-three-quarters")`
+
+**Session 22. Monday, 10 April.**
+
+- COIL. Inicio. Instrucciones en Blackboard.
+- Extra marks. The wheel of fortune 2/3.
+
+**Session 23, TEAMS. Thursday, 13 April.**
+
+- Extra marks. [Introduction to green economy.](https://unccelearn.org/course/view.php?id=51&page=overview) Submit your PDF certificate before 10:00 a.m. by the discussion forum.
+- COIL. Video intercultural. Primer sesión sincrónica. Instrucciones en Blackboard.
+
+**Session 24. Monday, 17 April.**
+
+- Time to catch up with the material.
+
+**Session 25, TEAMS. Thursday, 20 April.**
+
+- COIL. Análisis de datos. Segunda sesión sincrónica. Instrucciones en Blackboard.
+
+**Session 26, Zoom. Monday, 24 April.**
+
+- Extra marks. $ME_F$ instructions in Blackboard.
+
+**Session 27, TEAMS. `r fontawesome::fa("children")` Thursday, 27 April.**
+
+- COIL. Metodología. Tercer sesión sincrónica. Instrucciones en Blackboard.
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, 1 May.**
+
+**Session 28, TEAMS. `r fontawesome::fa("jedi-order")` Thursday, 4 May.**
+
+- COIL. Resultados. Cuarta sesión sincrónica. Instrucciones en Blackboard.
+
+**Session 29. `r fontawesome::fa("female")` Monday, 8 May.**
+
+- Activity. $E_F$ review.
+- Extra marks. The wheel of fortune 3/3.
+
+**Session 30, Zoom. Thursday, 11 May.**
+
+- COIL. Conclusiones. Instrucciones en Blackboard.
+- Non graded. Complete $H_3$ before 10:00 a.m.
+- Farewell.
+
+**Session 31, Zoom. Friday, 12 May, 16:00 – 19:00.**
+
+- COIL. Reflexión individual, auto y co-evaluación 10:00 a.m. Instrucciones en Blackboard.
+- Activity. Open rehearsal PEF students.
+
+## The end. `r fontawesome::fa("battery-full")`
+
+**Final exam, Zoom. Monday, 15 May, 16:00 – 18:00.**
+
+- Graded. $E_F$ instructions in Blackboard.
+
+
+\newpage

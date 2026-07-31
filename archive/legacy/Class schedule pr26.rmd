@@ -1,0 +1,390 @@
+# `r fontawesome::fa("calendar-alt")` Schedule. {#sec-schedule}
+
+EMF, Spring 2026. Room 3310, Monday & Thursday 17:30 – 19:00. Zoom [https://us02web.zoom.us/j/81469454043](https://us02web.zoom.us/j/81469454043)
+
+## `r fontawesome::fa("battery-quarter", fill = "grey")` Part 1.
+
+**Session 1. `r fontawesome::fa("handshake")` Monday, January 12.**
+
+- Reading. Course syllabus (this document).
+- Activity. Welcome and introduction to the course.
+- Activity. Set up your free DataCamp account. Invitations have been sent to your UDEM student email.
+- Activity. Define your team of no more than 4 members.
+- Bonus points. Reto grupal. Al menos durante este semestre es necesario que te suscribas al canal de YouTube [ahyaentendi](https://www.youtube.com/@ahyaentendi). Si todo el grupo lo hace, entonces asigno +5 a todos mis alumnos de este grupo.
+
+**Session 2. Thursday, January 15.**
+
+- Reading. Course syllabus (this document).
+- Activity. How DataCamp and DataLab works.
+- Bonus points. Reto colectivo. Tengo aproximadamente 90 alumnos este semestre, y todos tienen que ver los siguientes tres videos: [Primavera 2026](https://youtube.com/playlist?list=PLLvF5aOnCZwmKMGr3AciOR4SHtAf73DLv&si=mnWuaBu0q7o1l1rG). Si todos mis alumnos lo hacen, equivale a 180 horas de reproducción. En caso de que al jueves 15 de enero a las 7:00pm se alcance esa meta, entonces asigno +10 a todos mis alumnos.
+
+**Session 3. Monday, January 19.**
+
+- Topic 1/3: Introduction to time series analysis and forecasting techniques.
+- Reading. @49018680cf534023b6ae0f4e933c475d, chapter 1: *Getting started*.
+- Reading. @49018680cf534023b6ae0f4e933c475d, chapter 2: *Time series graphics*.
+- Obligatorio. Acepta las normativas del curso: [Formulario.](https://forms.gle/uDkL2QtQget2ByaT6)
+
+**Session 4. Thursday, January 22.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, chapter 2: *Time series graphics*.
+
+**Session 5. Monday, January 26.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, chapter 3: *Time series decomposition*.
+- Complementary material. Video: [Rob Hyndman, How Rmarkdown changed my life, RStudio 2020.](https://youtu.be/_D-ux3MqGug)
+
+**Session 6, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Thursday, January 29.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, chapter 5: *The forecaster’s toolbox*.
+- Complementary material. Video: [chapter 5.](https://youtu.be/6mXUz_l3mPQ)
+- Reading. @lozanoEMF, chapter 1: *The forecast problem*.
+- Reading. @lozanoEMF, chapter 2: *Forecasts with fpp3*.
+- Complementary material. We do not review @49018680cf534023b6ae0f4e933c475d, chapter 4, but here is one interesting video about this chapter in case you are interested. [Talk time series data.](https://youtu.be/Ykiuj16P450) @49018680cf534023b6ae0f4e933c475d video: [chapter 4.](https://youtu.be/pSdFzYsR0rQ)
+- Activity. $H_1$ review.
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, February 2.**
+
+**Session 7. Thursday, February 5.**
+
+- Graded. Complete $H_1$ before 10:00 a.m.
+- Activity. $H_1$ presentations 1/2.
+
+**Session 8. Monday, February 9.**
+
+- Activity. $H_1$ presentations 2/2.
+
+**Session 9. `r fontawesome::fa_i("heart", class = "fa-solid", style = "color: red;")` Thursday, February 12.**
+
+- Activity. $E_1$ review.
+- *No conozco la fecha límite, pero deben completar la encuesta avanza 180 por favor.*
+
+**Session 10, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, February 16.**
+
+- Graded. $E_1$ Instructions in Blackboard.
+- The link to complete $H_1$ and $E_1$ co-evaluation will be available on Blackboard right after the exam.
+
+## `r fontawesome::fa("battery-half", fill = "red")` Part 2.
+
+**Session 11. Thursday, February 19.**
+
+- Activity. Discuss $E_1$ answers.
+- Bonus points. The wheel of fortune 1/3. This is a class activity.
+- Graded. Submit $H_1$ and $E_1$ co-evaluation before 10:00 a.m. Instructions in Blackboard.
+
+**Session 12, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, February 23.**
+
+- Topic 2/3: Time series modeling: Estimation, visualization, and evaluation.
+- Reading. @49018680cf534023b6ae0f4e933c475d, chapter 7: *Time series regression models*.
+- Complementary material. @hanck2020introduction, chapter 14: *Introduction to time series regression and forecasting*.
+- Complementary material. We do not review @49018680cf534023b6ae0f4e933c475d, chapter 6, but here is one interesting video about this chapter in case you are interested. [chapter 6.](https://youtu.be/4cjU4NV1tkk)
+- Complementary material. [The Plastic Recycling Myth.](https://youtu.be/zZlRhCDzh2A)
+
+**Session 13. Thursday, February 26.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, chapter 7: *Time series regression models*.
+- Complementary material. *Retos y oportunidades en el aprendizaje de ciencia de datos en las escuelas de negocios.* Available at: [Spotify `r fontawesome::fa("spotify")`](https://open.spotify.com/episode/6x8c6XIPIfIPLj1yRhi5D8?si=bcee2af66ed54e09); [YouTube `r fontawesome::fa("youtube")`](https://youtu.be/SKG3Kr-TK-w?si=W5wg2DXluuiEspWC); [LinkedIn `r fontawesome::fa("linkedin")`](https://www.linkedin.com/posts/martin-lozano-21818a22_132-retos-y-oportunidades-en-el-aprendizaje-activity-7142212773349945344-1xHL?utm_source=share&utm_medium=member_desktop). Café de Datos, Datlas. Temporada 9, capítulo 132. Diciembre 2023. 
+- Bonus points. **Time Series**. Complete DataCamp assignment before 10:00 a.m. It is not required to send evidence of having completed because the system automatically records if it was completed on time.
+
+**Session 14. Monday, March 2.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, chapter 8: *Exponential smoothing*.
+- Complementary material. @49018680cf534023b6ae0f4e933c475d videos: 8.1 [Simple exponential smoothing.](https://youtu.be/E47o0TrFBIg) 8.2 [Holt's linear trend method.](https://youtu.be/tMaEhMmLgxs) 8.3 [Holt Winters smoothing.](https://youtu.be/Mtu3_eIgSg0) 8.7 [ETS models.](https://youtu.be/QnBGtvKnGqk)
+
+**Session 15. Thursday, March 5.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, chapter 9: *ARIMA models*.
+- Complementary material. Video: [Times-series analysis.](https://youtu.be/OzpZVMfaszY)
+- Complementary material. @ruppert2011statistics: chapter 12: *Time series models: Basics*.
+- Complementary material. @ruppert2011statistics: chapter 13: *Time series models: Further topics*.
+- Complementary material. @49018680cf534023b6ae0f4e933c475d videos: 9.1 [ARIMA unit root test.](https://youtu.be/xgIu7H2Qo64) 9.3 [ARIMA Autoregressive models.](https://youtu.be/7fN_b1BihWM) 9.4 [ARIMA ARMA model.](https://youtu.be/rWDhcSau1lg) 9.5 [ARIMA, non seasonal.](https://youtu.be/KbzCi2qD9eg) 9.9 [Seasonal ARIMA.](https://youtu.be/3UImzupolm0)
+
+**Session 16. Monday, March 9.**
+
+- Activity. $H_2$ review.
+
+**Session 17. Thursday, March 12.**
+
+- Graded. Complete $H_2$ before 10:00 a.m.
+- Activity. $H_2$ presentations 1/2.
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, March 16.**
+
+**Session 18. `r fontawesome::fa_i("sun", class = "fa-solid")` Thursday, March 19.**
+
+- Activity. $H_2$ presentations 2/2.
+
+**Session 19, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, March 23.**
+
+- Activity. $E_2$ review.
+- Bonus points. The wheel of fortune 2/3. This is a class activity.
+
+**Session 20, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Thursday, March 26.**
+
+- Graded. $E_2$ Instructions in Blackboard.
+- The link to complete $H_2$ and $E_2$ co-evaluation will be available on Blackboard right after the exam.
+- Graded. Submit $H_2$ and $E_2$ co-evaluation before Friday March 27 10:00 a.m. Instructions in Blackboard.
+- Bonus points. **Statistics Fundamentals**. Complete DataCamp assignment before 10:00 a.m. It is not required to send evidence of having completed because the system automatically records if it was completed on time.
+
+## `r fontawesome::fa("battery-three-quarters", fill = "orange")` Part 3.
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Monday, March 30.**
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Thursday, April 2.**
+
+**Session 21. Monday, April 6.**
+
+- Activity. Discuss $E_2$ answers.
+- Non graded. Mention DataCamp in social media if possible. [Instructions.](https://docs.google.com/document/d/1Dv-L036CZWsZCmn9W5p0ikgetlc4GcT-NQ9Rp_HebE0/edit)
+
+**Session 22. Thursday, April 9.**
+
+- As a review of previous material, we discuss the following @lozanoEMF chapters.
+- Reading. @lozanoEMF, chapter 1: *The forecast problem*.
+- Reading. @lozanoEMF, chapter 2: *Forecasts with fpp3*.
+- Reading. @lozanoEMF, Chapter 3: *Forecasts with h2o*.
+- Reading. @lozanoEMF, Chapter 4: *Two more forecast models*.
+- Reading. @lozanoEMF, Chapter 5: *Summary of all results*.
+
+**Session 23. Monday, April 13.**
+
+- Topic 3/3: Estimating volatilities and correlations.
+- Reading. @Hull11, chapter 23, section 23.1: *Estimating volatility*. 
+
+**Session 24. Thursday, April 16.**
+
+- Reading. @Hull11, chapter 23, section 23.2: *The exponentially weighted moving average model*. 
+
+**Session 25, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Monday, April 20.**
+
+- Reading. @Hull11, chapter 23, section 23.3: *The GARCH(1,1) model*.
+
+**Session 26. Thursday, April 23.**
+
+- Reading. @Hull11, chapter 23, section 23.4: *Choosing between models*. 
+- Reading. @Hull11, chapter 23, section 23.5: *Maximum likelihood method*. 
+- *No conozco la fecha límite, pero deben completar la encuesta avanza 360 por favor.*
+
+**Session 27. Monday, April 27.**
+
+- Reading. @Hull11, chapter 23, section 23.6: *Using GARCH(1,1) to forecast future volatility*. 
+- Reading. @Hull11, chapter 23, section 23.7: *Correlations*. 
+
+**Session 28. `r fontawesome::fa_i("children", class = "fa-solid")` Thursday, April 30.**
+
+- Presentaciones PEF.
+
+**Session 29. `r fontawesome::fa("jedi-order")` Monday, May 4.**
+
+- Presentaciones PEF.
+- Non-graded. Complete $H_3$ before 10:00 a.m.
+
+**Session 30, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Thursday, May 7.**
+
+- Activity. $E_F$ review.
+- Bonus points. The wheel of fortune 3/3. This is a class activity.
+- Bonus points. **AI Fundamentals**. Complete DataCamp assignment before 10:00 a.m. It is not required to send evidence of having completed because the system automatically records if it was completed on time.
+- Farewell `r fontawesome::fa_i("heart", class = "fa-solid", style = "color: red;")`.
+
+## `r fontawesome::fa("battery-full", fill = "green")` The end.
+
+**Final exam, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" height="45" width="45" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Thursday, May 21, 17:30 – 19:30.**
+
+- Graded. $E_F$ Instructions in Blackboard.
+
+<!-- # `r fontawesome::fa("calendar-alt")` Schedule 2 T&F. {#sec-schedule2} -->
+
+<!-- EMF2, Spring 2026. Online, Tuesday & Friday 11:30 – 13:00. Zoom [https://us02web.zoom.us/j/87888767787](https://us02web.zoom.us/j/87888767787) -->
+
+<!-- ## `r fontawesome::fa("battery-quarter", fill = "grey")` Part 1. -->
+
+<!-- **Session 1. `r fontawesome::fa("handshake")` Tuesday, January 13.** -->
+
+<!-- - Reading. Course syllabus (this document). -->
+<!-- - Activity. Welcome and introduction to the course. -->
+<!-- - Activity. Set up your free DataCamp account. Invitations have been sent to your UDEM student email. -->
+<!-- - Activity. Define your team of no more than 4 members. -->
+<!-- - Bonus points. Reto grupal. Al menos durante este semestre es necesario que te suscribas al canal de YouTube [ahyaentendi](https://www.youtube.com/@ahyaentendi). Si todo el grupo lo hace, entonces asigno +5 a todos mis alumnos de este grupo. -->
+
+<!-- **Session 2. Friday, January 16.** -->
+
+<!-- - Reading. Course syllabus (this document). -->
+<!-- - Activity. How DataCamp and DataLab works. -->
+<!-- - Bonus points. Reto colectivo. Tengo aproximadamente 90 alumnos este semestre, y todos tienen que ver los siguientes tres videos: [Primavera 2026](https://youtube.com/playlist?list=PLLvF5aOnCZwmKMGr3AciOR4SHtAf73DLv&si=mnWuaBu0q7o1l1rG). Si todos mis alumnos lo hacen, equivale a 180 horas de reproducción. En caso de que al jueves 15 de enero a las 7:00pm se alcance esa meta, entonces asigno +10 a todos mis alumnos. -->
+
+<!-- **Session 3. Tuesday, January 20.** -->
+
+<!-- - Topic 1/3: Introduction to time series analysis and forecasting techniques. -->
+<!-- - Obligatorio. Acepta las normativas del curso: [Formulario.](https://forms.gle/tZ9KHKTrhYBmRSNS8) -->
+<!-- - Reading. @49018680cf534023b6ae0f4e933c475d, chapter 1: *Getting started*. -->
+<!-- - Reading. @49018680cf534023b6ae0f4e933c475d, chapter 2: *Time series graphics*. -->
+<!-- - Obligatorio. Acepta las normativas del curso: [Formulario.](https://forms.gle/uDkL2QtQget2ByaT6) -->
+
+<!-- **Session 4. Friday, January 23.** -->
+
+<!-- - Reading. @49018680cf534023b6ae0f4e933c475d, chapter 2: *Time series graphics*. -->
+
+<!-- **Session 5. Tuesday, January 27.** -->
+
+<!-- - Reading. @49018680cf534023b6ae0f4e933c475d, chapter 3: *Time series decomposition*. -->
+<!-- - Complementary material. Video: [Rob Hyndman, How Rmarkdown changed my life, RStudio 2020.](https://youtu.be/_D-ux3MqGug) -->
+
+<!-- **Session 6. Friday, January 30.** -->
+
+<!-- - Reading. @49018680cf534023b6ae0f4e933c475d, chapter 5: *The forecaster’s toolbox*. -->
+<!-- - Complementary material. Video: [chapter 5.](https://youtu.be/6mXUz_l3mPQ) -->
+<!-- - Complementary material. We do not review @49018680cf534023b6ae0f4e933c475d, chapter 4, but here is one interesting video about this chapter in case you are interested. [Talk time series data.](https://youtu.be/Ykiuj16P450) @49018680cf534023b6ae0f4e933c475d video: [chapter 4.](https://youtu.be/pSdFzYsR0rQ) -->
+<!-- - Activity. $H_1$ review. -->
+
+<!-- **Session 7. Tuesday, February 3.** -->
+
+<!-- - Presentaciones PEF. -->
+
+<!-- **Session 8. Friday, February 6.** -->
+
+<!-- - Graded. Complete $H_1$ before 10:00 a.m. -->
+<!-- - Activity. $H_1$ presentations 1/2. -->
+
+<!-- **Session 9. Tuesday, February 10.** -->
+
+<!-- - Activity. $H_1$ presentations 2/2. -->
+
+<!-- **Session 10. `r fontawesome::fa_i("heart", class = "fa-solid", style = "color: red;")` Friday, February 13.** -->
+
+<!-- - Activity. $E_1$ review. -->
+<!-- - *No conozco la fecha límite, pero deben completar la encuesta avanza 180 por favor.* -->
+
+<!-- **Session 11. Tuesday, February 17.** -->
+
+<!-- - Graded. $E_1$ Instructions in Blackboard. -->
+<!-- - The link to complete $H_1$ and $E_1$ co-evaluation will be available on Blackboard right after the exam. -->
+
+<!-- ## `r fontawesome::fa("battery-half", fill = "red")` Part 2. -->
+
+<!-- **Session 12. Friday, February 20.** -->
+
+<!-- - Activity. Discuss $E_1$ answers. -->
+<!-- - Bonus points. The wheel of fortune 1/3. This is a class activity. -->
+<!-- - Graded. Submit $H_1$ and $E_1$ co-evaluation before 10:00 a.m. Instructions in Blackboard. -->
+
+<!-- **Session 13. Tuesday, February 24.** -->
+
+<!-- - Topic 2/3: Time series modeling: Estimation, visualization, and evaluation. -->
+<!-- - Reading. @49018680cf534023b6ae0f4e933c475d, chapter 7: *Time series regression models*. -->
+<!-- - Complementary material. @hanck2020introduction, chapter 14: *Introduction to time series regression and forecasting*. -->
+<!-- - Complementary material. We do not review @49018680cf534023b6ae0f4e933c475d, chapter 6, but here is one interesting video about this chapter in case you are interested. [chapter 6.](https://youtu.be/4cjU4NV1tkk) -->
+<!-- - Complementary material. [The Plastic Recycling Myth.](https://youtu.be/zZlRhCDzh2A) -->
+
+<!-- **Session 14. Friday, February 27.** -->
+
+<!-- - Reading. @49018680cf534023b6ae0f4e933c475d, chapter 7: *Time series regression models*. -->
+<!-- - Extra marks. DataCamp top 5 XP for the first 30 days. Deadline: Wednesday, September 3. -->
+<!-- - Complementary material. *Retos y oportunidades en el aprendizaje de ciencia de datos en las escuelas de negocios.* Available at: [Spotify `r fontawesome::fa("spotify")`](https://open.spotify.com/episode/6x8c6XIPIfIPLj1yRhi5D8?si=bcee2af66ed54e09); [YouTube `r fontawesome::fa("youtube")`](https://youtu.be/SKG3Kr-TK-w?si=W5wg2DXluuiEspWC); [LinkedIn `r fontawesome::fa("linkedin")`](https://www.linkedin.com/posts/martin-lozano-21818a22_132-retos-y-oportunidades-en-el-aprendizaje-activity-7142212773349945344-1xHL?utm_source=share&utm_medium=member_desktop). Café de Datos, Datlas. Temporada 9, capítulo 132. Diciembre 2023.  -->
+<!-- - Bonus points. **Time Series**. Complete DataCamp assignment before 10:00 a.m. It is not required to send evidence of having completed because the system automatically records if it was completed on time. -->
+
+<!-- **Session 15. Tuesday, March 3.** -->
+
+<!-- - Reading. @49018680cf534023b6ae0f4e933c475d, chapter 8: *Exponential smoothing*. -->
+<!-- - Complementary material. @49018680cf534023b6ae0f4e933c475d videos: 8.1 [Simple exponential smoothing.](https://youtu.be/E47o0TrFBIg) 8.2 [Holt's linear trend method.](https://youtu.be/tMaEhMmLgxs) 8.3 [Holt Winters smoothing.](https://youtu.be/Mtu3_eIgSg0) 8.7 [ETS models.](https://youtu.be/QnBGtvKnGqk) -->
+
+<!-- **Session 16. Friday, March 6.** -->
+
+<!-- - Reading. @49018680cf534023b6ae0f4e933c475d, chapter 9: *ARIMA models*. -->
+<!-- - Complementary material. Video: [Times-series analysis.](https://youtu.be/OzpZVMfaszY) -->
+<!-- - Complementary material. @ruppert2011statistics: chapter 12: *Time series models: Basics*. -->
+<!-- - Complementary material. @ruppert2011statistics: chapter 13: *Time series models: Further topics*. -->
+<!-- - Complementary material. @49018680cf534023b6ae0f4e933c475d videos: 9.1 [ARIMA unit root test.](https://youtu.be/xgIu7H2Qo64) 9.3 [ARIMA Autoregressive models.](https://youtu.be/7fN_b1BihWM) 9.4 [ARIMA ARMA model.](https://youtu.be/rWDhcSau1lg) 9.5 [ARIMA, non seasonal.](https://youtu.be/KbzCi2qD9eg) 9.9 [Seasonal ARIMA.](https://youtu.be/3UImzupolm0) -->
+
+<!-- **Session 17. Tuesday, March 10.** -->
+
+<!-- - Activity. $H_2$ review. -->
+
+<!-- **Session 18. Friday, March 13.** -->
+
+<!-- - Graded. Complete $H_2$ before 10:00 a.m. -->
+<!-- - Activity. $H_2$ presentations 1/2. -->
+
+<!-- **Session 19. Tuesday, March 17.** -->
+
+<!-- - Presentaciones PEF. -->
+
+<!-- **Session 20. `r fontawesome::fa_i("sun", class = "fa-solid")` Friday, March 20.** -->
+
+<!-- - Activity. $H_2$ presentations 2/2. -->
+
+<!-- **Session 21. Tuesday, March 24.** -->
+
+<!-- - Activity. $E_2$ review. -->
+<!-- - Bonus points. The wheel of fortune 2/3. This is a class activity. -->
+
+<!-- **Session 22. Friday, March 27.** -->
+
+<!-- - Graded. $E_2$ Instructions in Blackboard. -->
+<!-- - The link to complete $H_2$ and $E_2$ co-evaluation will be available on Blackboard right after the exam. -->
+<!-- - Graded. Submit $H_2$ and $E_2$ co-evaluation before Friday March 27 10:00 a.m. Instructions in Blackboard. -->
+<!-- - Bonus points. **Statistics Fundamentals**. Complete DataCamp assignment before 10:00 a.m. It is not required to send evidence of having completed because the system automatically records if it was completed on time. -->
+
+<!-- ## `r fontawesome::fa("battery-three-quarters", fill = "orange")` Part 3. -->
+
+<!-- **Holiday. `r fontawesome::fa("umbrella-beach")` Tuesday, March 31.** -->
+
+<!-- **Holiday. `r fontawesome::fa("umbrella-beach")` Friday, April 3.** -->
+
+<!-- **Session 23. Tuesday, April 7.** -->
+
+<!-- - Activity. Discuss $E_2$ answers. -->
+<!-- - Non graded. Mention DataCamp in social media if possible. [Instructions.](https://docs.google.com/document/d/1Dv-L036CZWsZCmn9W5p0ikgetlc4GcT-NQ9Rp_HebE0/edit) -->
+
+<!-- **Session 24. Friday, April 10.** -->
+
+<!-- - As a review of previous material, we discuss the following @lozanoEMF chapters. -->
+<!-- - Reading. @lozanoEMF, chapter 1: *The forecast problem*. -->
+<!-- - Reading. @lozanoEMF, chapter 2: *Forecasts with fpp3*. -->
+<!-- - Reading. @lozanoEMF, Chapter 3: *Forecasts with h2o*. -->
+<!-- - Reading. @lozanoEMF, Chapter 4: *Two more forecast models*. -->
+<!-- - Reading. @lozanoEMF, Chapter 5: *Summary of all results*. -->
+
+<!-- **Session 25. Tuesday, April 14.** -->
+
+<!-- - Topic 3/3: Estimating volatilities and correlations. -->
+<!-- - Reading. @Hull11, chapter 23, section 23.1: *Estimating volatility*.  -->
+
+<!-- **Session 26. Friday, April 17.** -->
+
+<!-- - Reading. @Hull11, chapter 23, section 23.2: *The exponentially weighted moving average model*.  -->
+
+<!-- **Session 27. Tuesday, April 21.** -->
+
+<!-- - Reading. @Hull11, chapter 23, section 23.3: *The GARCH(1,1) model*. -->
+
+<!-- **Session 28. Friday, April 24.** -->
+
+<!-- - Reading. @Hull11, chapter 23, section 23.4: *Choosing between models*.  -->
+<!-- - Reading. @Hull11, chapter 23, section 23.5: *Maximum likelihood method*.  -->
+<!-- - *No conozco la fecha límite, pero deben completar la encuesta avanza 360 por favor.* -->
+
+<!-- **Session 29. Tuesday, April 28.** -->
+
+<!-- - Reading. @Hull11, chapter 23, section 23.6: *Using GARCH(1,1) to forecast future volatility*.  -->
+<!-- - Reading. @Hull11, chapter 23, section 23.7: *Correlations*.  -->
+
+<!-- **Holiday. `r fontawesome::fa("umbrella-beach")` Friday, May 1.** -->
+
+<!-- **Session 30. `r fontawesome::fa("jedi-order")` Tuesday, May 5.** -->
+
+<!-- - Presentaciones PEF. -->
+<!-- - Non-graded. Complete $H_3$ before 10:00 a.m. -->
+
+<!-- **Session 31. Friday, May 8.** -->
+
+<!-- - Activity. $E_F$ review. -->
+<!-- - Bonus points. The wheel of fortune 3/3. This is a class activity. -->
+<!-- - Bonus points. **AI Fundamentals**. Complete DataCamp assignment before 10:00 a.m. It is not required to send evidence of having completed because the system automatically records if it was completed on time. -->
+<!-- - Farewell `r fontawesome::fa_i("heart", class = "fa-solid", style = "color: red;")`. -->
+
+<!-- ## `r fontawesome::fa("battery-full", fill = "green")` The end. -->
+
+<!-- **Final exam. TBC, 16:00 – 18:00.** -->
+
+<!-- - Graded. $E_F$ Instructions in Blackboard. -->
+

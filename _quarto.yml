@@ -1,0 +1,82 @@
+project:
+  type: book
+  output-dir: docs
+  pre-render:
+    - powershell -NoProfile -ExecutionPolicy Bypass -File scripts/prepare-book-metadata.ps1
+  post-render:
+    - powershell -NoProfile -ExecutionPolicy Bypass -File scripts/finalize-render.ps1
+
+course:
+  code: EMF2
+  title: Econometría para los mercados financieros EMF2.
+  term: Fall 2026
+  status: Under review
+  room: XXX
+  meeting-days: Monday & Thursday
+  meeting-time: "17:30 – 19:00"
+  zoom: XXX
+
+book:
+  title: "{{< meta course.title >}}"
+  subtitle: "Course syllabus. {{< meta course.term >}}. {{< meta course.status >}}."
+  date: today
+  date-format: "MMMM D, YYYY"
+  author: Dr. Martín Lozano
+  page-navigation: true
+  search: true
+  sidebar:
+    style: docked
+    collapse-level: 1
+  page-footer:
+    left: "{{< meta course.title >}}"
+    right: 'Dr. Mart&iacute;n Lozano &middot; <a href="mailto:martin.lozano@udem.edu">martin.lozano@udem.edu</a> &middot; <a href="https://mlozanoqf.github.io/">mlozanoqf.github.io</a>'
+  chapters:
+    - index.qmd
+    - part: "Course Foundations"
+      chapters:
+        - welcome.qmd
+        - course-overview.qmd
+        - tools-data-science.qmd
+    - part: "Activities, Evaluation, and Policies"
+      chapters:
+        - course-activities.qmd
+        - evaluation.qmd
+        - rubrics.qmd
+        - course-policies.qmd
+        - checklist.qmd
+    - schedule.qmd
+    - part: "References"
+      chapters:
+        - learning-resources.qmd
+        - internet-resources.qmd
+        - references.qmd
+
+bibliography: 9mybibfile.bib
+  
+format: 
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: false
+    toc-title: On this page
+    smooth-scroll: true
+    code-fold: false
+    code-copy: true
+    code-tools: false
+    code-block-bg: true
+    code-block-border-left: "#6A0DAD"
+    code-line-numbers: true
+    number-sections: false
+    toc-location: right
+    toc-depth: 2
+    page-layout: full
+    include-after-body:
+      - includes/analytics.html
+      - includes/back-to-top.html
+      - includes/progress-bar.html
+      - includes/local-navigation.html
+      - includes/page-sections.html
+      - includes/sidebar-accordion.html
+    css: syllabus-styles.css
+    link-citations: true

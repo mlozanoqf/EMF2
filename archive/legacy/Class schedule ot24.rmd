@@ -1,0 +1,198 @@
+# `r fontawesome::fa("calendar-alt")` Schedule. {#sec-schedule}
+
+**Política de retardos:** (1) El tercer retardo se convierte en falta; (2) la asistencia o el retardo se cambia a dos retardos en caso de abandonar la clase antes de que termine; (3) el retardo se asigna si llegan al final de que tome la asistencia de todo el grupo o más tarde; (4) los retardos se acumulan en el semestre.
+
+`r fontawesome::fa("chart-line")` EMF, Fall 2024. Room  3202, 17:30 – 19:00. Zoom [https://us02web.zoom.us/j/88088310271](https://us02web.zoom.us/j/88088310271)
+
+
+## `r fontawesome::fa("battery-quarter")` Part 1.
+
+**Session 1. `r fontawesome::fa("handshake")` Monday, August 5.**
+
+- Reading. Course syllabus (this document).
+- Activity. Welcome and introduction to the course.
+- Activity. Set up your free DataCamp account. You should have received invitations in your UDEM student email.
+- Activity. Define your group of no more than 4 members.
+
+**Session 2. Thursday, August 8.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 1 *Getting started*.
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 2 *Time series graphics*.
+
+**Session 3. Monday, August 12.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 2 *Time series graphics*.
+
+**Session 4. Thursday, August 15.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 3 *Time series decomposition*.
+- Reading. @lozanoEMF, Chapter 1 *The forecast problem*.
+- Reading. @lozanoEMF, Chapter 2 *Forecasts with fpp3*.
+
+**Session 5. Monday, August 19.**
+
+- Actividad individual: Completar el siguiente formulario para confirmar que has leído el syllabus del curso: [Formulario](https://forms.gle/wSPCxCxyukN7AcNR6). Si no se completa, se penaliza con -5 puntos sobre la calificación individual del primer parcial. La hora límite es 10:00 a.m. de la sesión 5.
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 3 *Time series decomposition*.
+- Reading. @lozanoEMF, Chapter 1 *The forecast problem*.
+- Reading. @lozanoEMF, Chapter 2 *Forecasts with fpp3*.
+- Complementary material. Video: [Rob Hyndman, How Rmarkdown changed my life, RStudio 2020.](https://youtu.be/_D-ux3MqGug)
+- Extra marks 1/8. DataCamp course: *Introduction to ChatGPT*, before 10:00 a.m.
+
+**Session 6. Thursday, August 22.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 5 *The forecaster’s toolbox*.
+- Complementary material. Video: [Chapter 5.](https://youtu.be/6mXUz_l3mPQ)
+- We do not review @49018680cf534023b6ae0f4e933c475d, Chapter 4, but here is one interesting video about this chapter in case you are interested. [Talk time series data.](https://youtu.be/Ykiuj16P450) @49018680cf534023b6ae0f4e933c475d video: [Chapter 4.](https://youtu.be/pSdFzYsR0rQ)
+
+**Session 7. Monday, August 26.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 5 *The forecaster’s toolbox*.
+- Extra marks 2/8. DataCamp skill track: *Time Series with R*, before 10:00 a.m.
+
+**Session 8. Thursday, August 29.**
+
+- We do not review @49018680cf534023b6ae0f4e933c475d, Chapter 6, but here is one interesting video about this chapter in case you are interested. [Chapter 6.](https://youtu.be/4cjU4NV1tkk)
+- Extra marks 3/8. [Sustainable Diet.](https://unccelearn.org/course/view.php?id=56&page=overview) Submit your PDF certificate before 10:00 a.m. by the discussion forum.
+- Complementary material. [The Plastic Recycling Myth.](https://youtu.be/zZlRhCDzh2A)
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 7 *Time series regression models*.
+- To know more about *Time series regression and forecasting*, please see @hanck2020introduction, Chapter 14.
+
+**Session 9. Monday, September 2.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 7 *Time series regression models*.
+- Activity. $H_1$ review.
+- Extra marks 4/8. DataCamp skill track: *Supervised Machine Learning in R*, before 10:00 a.m.
+
+**Session 10. Thursday, September 5.**
+
+- Graded. Complete $H_1$ before 10:00 a.m.
+- Activity. $H_1$ presentations.
+
+**Session 11. Monday, September 9.**
+
+- Activity. $E_1$ review.
+
+**Session 12, Zoom. Thursday, September 12.**
+
+- Graded. $E_1$ Instructions in Blackboard.
+- Graded. $H_1$ and $E_1$ auto and co-evaluation form is available for you to complete after the exam. Instructions in Blackboard.
+
+## `r fontawesome::fa("battery-half")` Part 2.
+
+**Session 13, Zoom. Thursday, September 19.**
+
+- Activity. Discuss $E_1$ answers.
+- Extra marks. The wheel of fortune 1/3.
+- Graded. Submit $H_1$ and $E_1$ auto and co-evaluation before 10:00 a.m. Instructions in Blackboard.
+
+**Session 14, Zoom. Monday, September 23.**
+
+- Invitados PEF2.
+
+**Session 15, Zoom. Thursday, September 26.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 8 *Exponential smoothing*.
+- Reading. @lozanoEMF, Chapter 1 *The forecast problem*.
+- Reading. @lozanoEMF, Chapter 2 *Forecasts with fpp3*.
+- Complementary material. @49018680cf534023b6ae0f4e933c475d videos: 8.1 [Simple exponential smoothing.](https://youtu.be/E47o0TrFBIg) 8.2 [Holt's linear trend method.](https://youtu.be/tMaEhMmLgxs) 8.3 [Holt Winters smoothing.](https://youtu.be/Mtu3_eIgSg0) 8.7 [ETS models.](https://youtu.be/QnBGtvKnGqk)
+
+**Session 16. Monday, September 30.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 8 *Exponential smoothing*.
+- Extra marks 5/8. DataCamp skill track: *Unsupervised Machine Learning with R*, before 10:00 a.m.
+
+**Session 17. Thursday, October 3.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 9 *ARIMA models*.
+- Complementary material. Video: [Times-series analysis.](https://youtu.be/OzpZVMfaszY)
+- To know more about ARIMA models see @ruppert2011statistics: Chapters 12 and 13.
+- Complementary material. @49018680cf534023b6ae0f4e933c475d videos: 9.1 [ARIMA unit root test.](https://youtu.be/xgIu7H2Qo64) 9.3 [ARIMA Autoregressive models.](https://youtu.be/7fN_b1BihWM) 9.4 [ARIMA ARMA model.](https://youtu.be/rWDhcSau1lg) 9.5 [ARIMA, non seasonal.](https://youtu.be/KbzCi2qD9eg) 9.9 [Seasonal ARIMA.](https://youtu.be/3UImzupolm0)
+
+**Session 18. Monday, October 7.**
+
+- Reading. @lozanoEMF, Chapter 3 *Forecasts with h2o*.
+- Reading. @lozanoEMF, Chapter 4 *Two more forecast models*.
+- Reading. @lozanoEMF, Chapter 5 *Summary of all results*.
+- Activity. $H_2$ review.
+- Actividad +5 puntos sobe la calificación del primer parcial. Compartir, reaccionar y/o agregar un comentario en redes sociales. *Retos y oportunidadades en el aprendizaje de ciencia de datos en las escuelas de negocios.* [Episodio en Spotify](https://open.spotify.com/episode/6x8c6XIPIfIPLj1yRhi5D8?si=bcee2af66ed54e09); [episodio en YouTube](https://youtu.be/SKG3Kr-TK-w?si=W5wg2DXluuiEspWC); [publicación en LinkedIn](https://www.linkedin.com/posts/martin-lozano-21818a22_132-retos-y-oportunidades-en-el-aprendizaje-activity-7142212773349945344-1xHL?utm_source=share&utm_medium=member_desktop). Café de Datos, Datlas. Temporada 9, capítulo 132. Subir evidencia (screenshot) al foro de discusión del primer parcial. La hora límite es 10:00 a.m. de la sesión 18.
+- Extra marks 6/8. [An Introduction to Climate Change and Human Rights.](https://unccelearn.org/course/view.php?id=136&page=overview) Submit your PDF certificate before 10:00 a.m. by the discussion forum.
+
+**Session 19. Thursday, October 10.**
+
+- Graded. Complete $H_2$ before 10:00 a.m.
+- Activity. $H_2$ presentations.
+
+**Session 20. Monday, October 14.**
+
+- Activity. $E_2$ review.
+
+**Session 21, Zoom. Thursday, October 17.**
+
+- Graded. $E_2$ Instructions in Blackboard.
+- Graded. $H_2$ and $E_2$ auto and co-evaluation form is available for you to complete after the exam. Instructions in Blackboard.
+
+## `r fontawesome::fa("battery-three-quarters")` Part 3.
+
+**Session 22. Monday, October 21.**
+
+- Activity. Discuss $E_2$ answers.
+- Extra marks. The wheel of fortune 2/3.
+- Graded. Submit $H_2$ and $E_2$ auto and co-evaluation before 10:00 a.m. Instructions in Blackboard.
+- Extra marks 7/8. DataCamp skill track: *Machine Learning Fundamentals with Python*, before 10:00 a.m.
+
+**Session 23. Thursday, October 24.**
+
+- COIL. Video intercultural.
+- Nota: Las instrucciones de la actividad COIL están disponibles en Blackboard.
+
+**Session 24. Monday, October 28.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 10 *Dynamic regression models*.
+- Complementary material. @49018680cf534023b6ae0f4e933c475d video: [Introduction to dynamic regression.](https://youtu.be/F2ByLxVlCtM)
+- Non graded. Mention DataCamp in social media if possible. [Instructions.](https://docs.google.com/document/d/1Dv-L036CZWsZCmn9W5p0ikgetlc4GcT-NQ9Rp_HebE0/edit)
+- Extra marks 8/8. DataCamp skill track: *Time Series with Python*, before 10:00 a.m.
+
+**Session 25, Zoom. Thursday, October 31.**
+
+- COIL. Sesión 1.
+
+**Session 26. Monday, November 4.**
+
+- Congreso.
+- Extra marks. DataCamp top 5 XP of the last 90 days.
+
+**Session 27, Zoom. Thursday, November 7.**
+
+- COIL. Sesión 2.
+- Nota: Las instrucciones de la actividad COIL están disponibles en Blackboard.
+
+**Session 28. Monday, November 11.**
+
+- Ensayos previos a la sesión 3 COIL.
+
+**Session 29, Zoom. Thursday, November 14.**
+
+- COIL. Sesión 3.
+- Nota: Las instrucciones de la actividad COIL están disponibles en Blackboard.
+
+**Session 30, Zoom. Thursday, November 21.**
+
+- COIL. Sesión 4.
+- Nota: Las instrucciones de la actividad COIL están disponibles en Blackboard.
+
+**Session 31. Monday, November 25.**
+
+- Reading. @49018680cf534023b6ae0f4e933c475d, Chapter 10 *Dynamic regression models*.
+- Non-graded. Complete $H_3$ before 10:00 a.m.
+
+**Session 32. Thursday, November 28.**
+
+- Activity. $E_F$ review.
+- Extra marks. The wheel of fortune 3/3.
+- Farewell.
+
+## `r fontawesome::fa("battery-full")` The end.
+
+**Final exam, Zoom. Thursday, 5 December, 16:00 – 18:00.**
+
+- Graded. $E_F$ Instructions in Blackboard.
