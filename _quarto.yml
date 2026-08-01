@@ -14,7 +14,7 @@ course:
   room: 4302
   meeting-days: Thursday
   meeting-time: "19:00 – 22:00"
-  zoom: XXX
+  zoom: https://us02web.zoom.us/j/85737386684
 
 book:
   title: "{{< meta course.title >}}"
