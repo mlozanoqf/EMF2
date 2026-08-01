@@ -1,6 +1,6 @@
 # Schedule {#sec-schedule}
 
-{{< meta course.code >}}, {{< meta course.term >}}. Room {{< meta course.room >}}, {{< meta course.meeting-days >}} {{< meta course.meeting-time >}}. Zoom {{< meta course.zoom >}}.
+{{< meta course.code >}}, {{< meta course.term >}}. Room {{< meta course.room >}}, {{< meta course.meeting-days >}} {{< meta course.meeting-time >}}; Zoom [{{< meta course.zoom >}}]({{< meta course.zoom >}})
 
 **Reading categories.** Required readings are mandatory course preparation. Materials labeled Supplementary are optional resources intended to reinforce or extend the session.
 
