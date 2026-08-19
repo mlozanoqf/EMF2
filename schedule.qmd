@@ -124,6 +124,6 @@
 
 ## <span class="bi bi-battery-full content-icon icon-green" aria-hidden="true"></span> The end
 
-**Final exam, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. XXX.**
+**Final exam, <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zoom.svg" alt="zoom" class="schedule-zoom-icon" height="24" width="24" style="vertical-align: middle; filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);" />. Thursday, November 26, 19:00–21:00.**
 
 - Graded. $E_F$ Instructions in Blackboard.
