@@ -28,7 +28,7 @@
 
 **Session 3. Thursday, August 20.**
 
-- Required reading. @49018680cf534023b6ae0f4e933c475d, chapters 4: *Time series features*; 5: *The forecaster's toolbox*; and 7: *Time series regression models*.
+- Required reading. @49018680cf534023b6ae0f4e933c475d, chapters 5: *The forecaster's toolbox* and 7: *Time series regression models*.
 - Required reading. @lozanoEMF, chapter 1: *Forecasting with fpp3* (2/2).
 - Supplementary reading. @ruppert2015statistics, chapter 12, sections 12.6–12.13: AR, MA, ARMA, and ARIMA processes; unit-root tests; ARIMA model selection; forecasting; and partial autocorrelations.
 - Supplementary essay. Lozano (2026), [*Un promedio no es una promesa*](https://ahyaentendi.substack.com/p/un-promedio-no-es-una-promesa).
