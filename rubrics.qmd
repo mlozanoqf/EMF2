@@ -1,6 +1,6 @@
 # Rubrics {#sec-rubrics}
 
-This section provides the rubric for the Oral component of homework assignments and partial exams. The Written component is evaluated according to the specific instructions, questions, and required outputs of each activity. Written work must also follow [Activity rules and consequences](<course-policies.qmd#sec-ap>).
+This section provides the common rubric for the Oral component of homework assignments and partial exams. Each homework or exam question defines the specific requirements and evaluation criteria for its Written component. The Written component is graded according to those question-specific instructions and required outputs. Written work must also follow [Activity rules and consequences](course-policies.qmd#sec-ap).
 
 The $H_1$ mark combines a team Written component mark and an individual Oral component mark for each student. For $H_2$, $E_1$, and $E_2$, the Written and Oral component marks are initially team marks. The complete calculations are stated in [Evaluation](evaluation.qmd#sec-evaluation). The final exam has only a Written component.
 
